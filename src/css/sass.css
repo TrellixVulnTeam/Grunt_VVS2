@@ -1,0 +1,10 @@
+html, body {
+  color: #fff;
+}
+
+p {
+  transition-duration: 0.75s;
+  box-sizing: border-box;
+}
+
+/*# sourceMappingURL=sass.css.map */
